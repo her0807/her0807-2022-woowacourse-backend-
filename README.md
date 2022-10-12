@@ -95,7 +95,7 @@
 | :-------------: | :--------------------------------------------------------: | :---: | :----------------------------------------------------------------: |
 | [톰캣 구현하기](https://github.com/woowacourse/jwp-dashboard-http/tree/her0807) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/183) |   [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/265)     | [리뷰 한 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/263) |     |
 |   [MVC 구현하기](https://github.com/woowacourse/jwp-dashboard-mvc/her0807)    |   [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/154)    |  [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/245)     |   [전체 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pulls?q=%EC%88%98%EB%8B%AC)   |     |
-|    [JDBC 라이브러리 구현하기 ](https://github.com/woowacourse/jwp-dashboard-jdbc/her0807)   | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/209)      |    [전체 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pulls?q=%EC%88%98%EB%8B%AC)    |     |
+|    [JDBC 라이브러리 구현하기 ](https://github.com/woowacourse/jwp-dashboard-jdbc/her0807)   | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/209)      |      | [전체 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pulls?q=%EC%88%98%EB%8B%AC)     |
 
 <br/>
 
@@ -123,21 +123,25 @@
 
 
 #### 3. 프롤로그
-[전체 작업 내역](https://github.com/woowacourse/prolog/issues?q=assignee%3Aher0807+)
+- [전체 작업 내역](https://github.com/woowacourse/prolog/issues?q=assignee%3Aher0807+)
 
-[프롤로그 배지 서비스 제작](https://github.com/woowacourse/prolog/issues?q=%EB%B1%83%EC%A7%80+)
-[프롤로그 배지 서비스 리팩터링](https://github.com/woowacourse/prolog/pull/950)
+
+1.성취감 증진을 위한 배지 제작
+- [프롤로그 배지 서비스 제작](https://github.com/woowacourse/prolog/issues?q=%EB%B1%83%EC%A7%80+)
+- [프롤로그 배지 서비스 리팩터링](https://github.com/woowacourse/prolog/pull/950)
 
 
 <img width="400" src="https://user-images.githubusercontent.com/26570275/195392589-5d533d30-cef7-4215-9033-52e752be5495.png">
 
 <br/>
 
-[질답 플랫폼 개발](https://github.com/woowacourse/prolog/pull/982)
+2. 메타인지 향상을 위한 질답 플랫폼 개발
+- [질답 플랫폼 개발](https://github.com/woowacourse/prolog/pull/982)
 
 
 <img width="400" src="https://user-images.githubusercontent.com/26570275/195393437-f53843a7-abbc-47a9-beee-58aebf8e512d.png">
 
 
-
+3. 주니어 개발자를 위한 성장 로드맵
+[추가 예정입니다]
 
